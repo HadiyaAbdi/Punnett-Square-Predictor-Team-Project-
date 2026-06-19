@@ -1,4 +1,4 @@
-class Traits:
+class traits_class:
     """
     Represents a Mendelian genetic trait with one dominant and 
     one recessive allele. 
